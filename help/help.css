@@ -22,7 +22,8 @@ body.help footer{border-top-color:var(--line);color:var(--soft);padding:24px 16p
 .help-main ol,.help-main ul{padding-left:1.4rem}
 .help-main li{margin:.45rem 0}
 .help-main strong{color:var(--ink)}
-.ui{font-weight:650;color:var(--ink);white-space:nowrap}
+.ui{font-weight:650;color:var(--ink)}
+@media (min-width:420px){.ui{white-space:nowrap}}
 .note{background:var(--note);border:1px solid var(--note-line);border-radius:10px;padding:12px 16px;margin:1.2rem 0}
 .note p{margin:.3rem 0}
 .shot{margin:1.4rem 0;text-align:center}
@@ -50,3 +51,4 @@ body.help footer{border-top-color:var(--line);color:var(--soft);padding:24px 16p
 .help-main th,.help-main td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
 .help-main th{color:var(--muted)}
 @media (min-width:760px){.help-groups{grid-template-columns:1fr 1fr}.help-main{padding-top:24px}body.help .nav{padding:28px}}
+body.help .business-box{border-color:var(--line);background:var(--panel)}body.help .business-box strong{color:var(--ink)}body.help .business-box span{color:var(--soft)}body.help .business-box a{color:var(--link)}
