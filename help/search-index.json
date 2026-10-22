@@ -122,8 +122,8 @@
 "title": "Notifications and messages",
 "url": "/help/owners/notifications/",
 "section": "For pet owners",
-"summary": "Where messages appear and how to choose in-app, email, WhatsApp and SMS.",
-"keywords": "notifications messages email sms whatsapp inbox bell marketing reach"
+"summary": "Where messages appear, how Aubloo sends them, and your WhatsApp updates and Birthday wishes choices.",
+"keywords": "notifications messages email sms whatsapp inbox bell birthday wishes paused reach how we reach you"
 },
 {
 "title": "Deleting your account",
@@ -150,7 +150,7 @@
 "title": "I am not getting notifications",
 "url": "/help/troubleshooting/#no-notifications",
 "section": "Troubleshooting",
-"summary": "Check Messages, your channels (email, WhatsApp, SMS) and your email address.",
+"summary": "Check Messages, WhatsApp updates in My profile, and your email address.",
 "keywords": "notifications not getting messages email whatsapp sms missing"
 },
 {
