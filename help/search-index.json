@@ -80,8 +80,8 @@
 "title": "Signing in",
 "url": "/help/owners/signing-in/",
 "section": "For pet owners",
-"summary": "Sign in with a 6-digit code sent to your mobile, or by email; if your number changes.",
-"keywords": "sign in login log in otp code mobile phone sms email password number changed sign out"
+"summary": "Sign in with a 6-digit code sent by SMS and WhatsApp, or by email; if your number changes.",
+"keywords": "sign in login log in otp code mobile phone sms whatsapp email password number changed sign out"
 },
 {
 "title": "Joining a business",
@@ -136,8 +136,8 @@
 "title": "I did not get a sign-in code",
 "url": "/help/troubleshooting/#no-code",
 "section": "Troubleshooting",
-"summary": "SMS or email code not arriving: check the number, spam, wait and resend.",
-"keywords": "no code otp not received sms email spam resend sign in"
+"summary": "SMS, WhatsApp or email code not arriving: check the number, spam, wait and resend.",
+"keywords": "no code otp not received sms whatsapp email spam resend sign in"
 },
 {
 "title": "A photo or video will not upload",
