@@ -1,0 +1,191 @@
+[
+{
+"url": "/help/business/getting-started/",
+"title": "Getting started",
+"section": "For businesses",
+"summary": "Register, approval and the setup wizard",
+"keywords": "register sign up new business account approval approved declined plan subscription payment setup wizard live password email code"
+},
+{
+"url": "/help/business/services-and-rates/",
+"title": "Services and rates",
+"section": "For businesses",
+"summary": "Choose what you sell and set prices and capacity",
+"keywords": "services boarding daycare grooming foster price prices rates rate per night day hour meal capacity full menu tables sizes gst tax blocked dates closed holiday"
+},
+{
+"url": "/help/business/staff/",
+"title": "Staff",
+"section": "For businesses",
+"summary": "Add your team, roles, PINs and the counter device",
+"keywords": "staff team employee add role roles permissions pin counter device tablet salary pay groomer remove access admin owner idle"
+},
+{
+"url": "/help/business/customers-and-pets/",
+"title": "Customers and pets",
+"section": "For businesses",
+"summary": "Join requests, adding customers, pet profiles, search",
+"keywords": "customer customers pets pet profile join request accept add mobile number do not rebook search booking reference breed"
+},
+{
+"url": "/help/business/bookings-and-calendar/",
+"title": "Bookings and the calendar",
+"section": "For businesses",
+"summary": "Make, approve, change and cancel bookings",
+"keywords": "booking bookings book request approve approvals refuse cancel no-show calendar capacity full day"
+},
+{
+"url": "/help/business/check-in-and-check-out/",
+"title": "Check-in and check-out",
+"section": "For businesses",
+"summary": "Arrivals, handover, discharge",
+"keywords": "check in check-in check out checkout discharge arrival pickup pick-up handover override turn away incident"
+},
+{
+"url": "/help/business/stay-photos-and-video/",
+"title": "Stay photos and video",
+"section": "For businesses",
+"summary": "5 photos and 1 video a day, up to 30 seconds",
+"keywords": "photo photos video videos media upload daily update limit 30 seconds delete kept retention"
+},
+{
+"url": "/help/business/bills-and-receipts/",
+"title": "Bills and receipts",
+"section": "For businesses",
+"summary": "Bill at check-out, payments, dues, receipts",
+"keywords": "bill bills invoice receipt payment paid dues owed discount total write off gst pdf email"
+},
+{
+"url": "/help/business/branding-and-logo/",
+"title": "Branding and logo",
+"section": "For businesses",
+"summary": "Your business name and logo",
+"keywords": "logo branding brand name image picture size colour"
+},
+{
+"url": "/help/business/vaccinations/",
+"title": "Vaccinations",
+"section": "For businesses",
+"summary": "Vaccines you track, certificates, check-in",
+"keywords": "vaccine vaccines vaccination certificate expiry rabies accept reject override tracked"
+},
+{
+"url": "/help/business/business-location/",
+"title": "Business location",
+"section": "For businesses",
+"summary": "Address and location so customers find you",
+"keywords": "address location map pin gps area pin code city nearby find search distance"
+},
+{
+"title": "Signing in",
+"url": "/help/owners/signing-in/",
+"section": "For pet owners",
+"summary": "Sign in with a 6-digit code sent to your mobile, or by email; if your number changes.",
+"keywords": "sign in login log in otp code mobile phone sms email password number changed sign out"
+},
+{
+"title": "Joining a business",
+"url": "/help/owners/joining-a-business/",
+"section": "For pet owners",
+"summary": "Find your pet business, ask to join, confirm a record, switch businesses.",
+"keywords": "join business find search ask to join that's me record switch nearby city pin code"
+},
+{
+"title": "Adding a pet",
+"url": "/help/owners/adding-a-pet/",
+"section": "For pet owners",
+"summary": "Add a pet and the details a business needs before a stay.",
+"keywords": "pet add dog cat profile breed photo vet emergency contact feeding age"
+},
+{
+"title": "Booking",
+"url": "/help/owners/booking/",
+"section": "For pet owners",
+"summary": "Send a booking request, follow the answer, see the bill, withdraw or cancel.",
+"keywords": "book booking request boarding daycare grooming foster dates cancel withdraw bill price receipt"
+},
+{
+"title": "Vaccination records",
+"url": "/help/owners/vaccinations/",
+"section": "For pet owners",
+"summary": "Add vaccination certificates and what each status means.",
+"keywords": "vaccination vaccine certificate expired current missing rabies reminder upload"
+},
+{
+"title": "Stay photos",
+"url": "/help/owners/stay-photos/",
+"section": "For pet owners",
+"summary": "See and save the photos and video shared during a stay.",
+"keywords": "photos video stay pictures share save download how long kept"
+},
+{
+"title": "Notifications and messages",
+"url": "/help/owners/notifications/",
+"section": "For pet owners",
+"summary": "Where messages appear and how to choose email, SMS and in-app.",
+"keywords": "notifications messages email sms whatsapp inbox bell marketing reach"
+},
+{
+"title": "Deleting your account",
+"url": "/help/owners/deleting-your-account/",
+"section": "For pet owners",
+"summary": "Delete your account: what is erased and what a business keeps.",
+"keywords": "delete account remove erase data privacy close"
+},
+{
+"title": "I did not get a sign-in code",
+"url": "/help/troubleshooting/#no-code",
+"section": "Troubleshooting",
+"summary": "SMS or email code not arriving: check the number, spam, wait and resend.",
+"keywords": "no code otp not received sms email spam resend sign in"
+},
+{
+"title": "A photo or video will not upload",
+"url": "/help/troubleshooting/#upload",
+"section": "Troubleshooting",
+"summary": "Connection, file size, permissions and daily limits.",
+"keywords": "upload photo video certificate pdf fails size permission"
+},
+{
+"title": "I am not getting notifications",
+"url": "/help/troubleshooting/#no-notifications",
+"section": "Troubleshooting",
+"summary": "Check Messages, your channels and your email address.",
+"keywords": "notifications not getting messages email sms missing"
+},
+{
+"title": "Customers cannot find my business nearby",
+"url": "/help/troubleshooting/#not-found-nearby",
+"section": "Troubleshooting",
+"summary": "Set the address, map pin and priced services so customers find you.",
+"keywords": "nearby search find business location map pin address not found listed"
+},
+{
+"title": "\"Couldn't reach Aubloo\"",
+"url": "/help/troubleshooting/#couldnt-reach",
+"section": "Troubleshooting",
+"summary": "What to do when the app cannot reach Aubloo.",
+"keywords": "couldn't reach aubloo connection offline network error internet"
+},
+{
+"title": "Updating the app",
+"url": "/help/troubleshooting/#updating",
+"section": "Troubleshooting",
+"summary": "Update from Google Play or the App Store; the Time to update screen.",
+"keywords": "update app version play store app store time to update old version"
+},
+{
+"title": "FAQ",
+"url": "/help/faq/",
+"section": "FAQ",
+"summary": "Short answers about cost, sign-in, pets, bookings, photos and data.",
+"keywords": "faq questions cost payment whatsapp password"
+},
+{
+"title": "Contact",
+"url": "/help/contact/",
+"section": "Contact",
+"summary": "Reach your pet business, or Aubloo at admin@aubloo.com.",
+"keywords": "contact support email help admin phone"
+}
+]
