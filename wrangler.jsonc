@@ -1,0 +1,9 @@
+// Static site: every file in this folder is served as-is (Workers static assets).
+// Branch builds run `wrangler versions upload`, which needs this to find the site.
+{
+  "name": "aubloo-website",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "."
+  }
+}
