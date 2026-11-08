@@ -1,0 +1,22 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Check</title>
+<style>body{font:16px system-ui,sans-serif;margin:16px}#out{white-space:pre-wrap;word-break:break-all;margin-top:16px}</style></head>
+<body><div id="box"></div><div id="out">loading...</div>
+<script>
+function say(m){var o=document.getElementById('out');o.textContent=(o.textContent==='loading...'?'':o.textContent+'\n')+new Date().toISOString().slice(11,19)+' '+(m.indexOf('token:')===0?'TOKEN OK ('+(m.length-6)+' chars)':m)}
+function go(){say('host '+location.hostname);turnstile.render('#box',{
+sitekey:'0x4AAAAAAFyKYlNp4WVd3RQs',theme:'light',
+size:'compact',appearance:'interaction-only',
+callback:function(t){say('token:'+t)},
+'before-interactive-callback':function(){say('ask')},
+'error-callback':function(c){say('failed:'+c);return true},
+'timeout-callback':function(){say('failed:timeout')},
+'expired-callback':function(){say('failed:expired')},
+'unsupported-callback':function(){say('failed:unsupported')}})}
+</script>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=go&render=explicit"
+async defer onerror="say('failed:script')"></script>
+</body></html>
