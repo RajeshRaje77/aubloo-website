@@ -2,7 +2,9 @@
 /terms /legal/terms-of-service 301
 /delete-account /legal/delete-account 301
 /help/business/* /help/ 301
+/help/owners/deleting-your-account /legal/delete-account 301
 /help/owners/deleting-your-account/ /legal/delete-account 301
+/help/owners/deleting-your-account/* /legal/delete-account 301
 /help/owners/* /help/ 301
 /help/troubleshooting/* /help/ 301
 /help/faq/* /help/ 301
